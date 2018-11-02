@@ -1,0 +1,14 @@
+{
+  "name": "realtime-function-app",
+  "version": "1.0.0",
+  "description": "Socket.io test function app.",
+  "main": "index.js",
+  "author": "ruifelixpereira",
+  "license": "MIT",
+  "dependencies": {
+    "socket.io-client": "^2.1.1"
+  },
+  "devDependencies": {
+    "dotenv": "^5.0.1"
+  }
+}
